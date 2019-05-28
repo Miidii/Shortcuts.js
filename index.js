@@ -330,4 +330,5 @@ module.exports = {
 	getShortcutDetails,
 	idFromURL,
 	singleIDRegex,
+	bplistParser: bplist
 };
